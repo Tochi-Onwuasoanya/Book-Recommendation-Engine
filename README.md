@@ -4,7 +4,7 @@ A search engine that recommends books to users using machine learning, cosine si
 # What you need
 Packages/libraries/languages: <br></br>
 Need to have pandas, numpy, python, sckit-learn… installed on your computer in order to run project
-
+Would recommend anaconda and anacoda navigator as well
 IDE: 
 Pycharm professional, Jupyter Lab, or any ide that supports python and .ipynb files
 
@@ -21,7 +21,9 @@ You can download the necessary data from these links:
 
 # How to run  
 - Download data files 
-- Download zip file and unzip to folder of choice. Open that folder in ide.
+- Download zip file and unzip to folder of choice. 
+- You can then open that folder in ide and then run "jupyter lab" from terminal within ide
+- Change directories until you're in the directory where you unzipped the files. Then type jupyter lab in terminal
 - You can also copy the files into an ide like pycharm, or jupyter lab, and run the project from there. 
 - You can also clone the repo into an ide as well.
 
