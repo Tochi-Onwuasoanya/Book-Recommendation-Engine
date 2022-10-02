@@ -22,10 +22,9 @@ You can download the necessary data from these links:
 # How to run  
 - Download data files 
 - Download zip file and unzip to folder of choice. 
-- You can then open that folder in ide and then run "jupyter lab" from terminal within ide
-- Change directories until you're in the directory where you unzipped the files. Then type jupyter lab in terminal
+- You can then open that folder in your ide, and then run within ide.
 - You can also copy the files into an ide like pycharm, or jupyter lab, and run the project from there. 
-- You can also clone the repo into an ide as well.
+
 
 *Highly recommend jupyter lab for this project*
 
@@ -57,10 +56,6 @@ Click here to watch a demo of the project in Jupyter Notebook
 
 
 # Next steps
-- Make program accesible on the terminal/command line 
+- Learn how to make program accesible on the terminal/command line, then update readme
 - Create front-end in order for users to be able to use the program as a web application
-- Try filtering users less or more
-- Get more books into liked books
 - Try to find more similar users (only took the first 15)
-- Try to weight the recommendations by how similar the user was to you (I.e. the more similar they are, the more highly you can value the recommendation)
-- Try adjusting the formula
