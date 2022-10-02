@@ -59,3 +59,4 @@ Click here to watch a demo of the project in Jupyter Notebook
 - Learn how to make program accesible on the terminal/command line, then update readme
 - Create front-end in order for users to be able to use the program as a web application
 - Try to find more similar users (only took the first 15)
+- Decrease output time for recommendation results
