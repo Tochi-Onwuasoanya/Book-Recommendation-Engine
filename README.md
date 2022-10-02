@@ -51,8 +51,10 @@ Remember to modify the book id's, and search queries in order to make the recomm
 You can use the search file to help search for book id's, or go on goodreads yourself to get them. 
 
 
-# Demo 
-Click here to watch a demo of the project in Jupyter Notebook
+# Example Output:
+![Book_recs_output (1)](https://user-images.githubusercontent.com/109547791/193438088-7d28d6fa-2a15-4094-8a12-eeea25bb9ad4.png)
+
+
 
 
 # Next steps
