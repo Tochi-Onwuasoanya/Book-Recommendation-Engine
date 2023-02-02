@@ -9,13 +9,13 @@ IDE:
 Pycharm professional, Jupyter Lab, or any ide that supports python and .ipynb files
 
 Data files:
-You can download the necessary data from these links:
+You can download and view the necessary data from these links:
 - Data overview - https://sites.google.com/eng.ucsd.edu...
 - goodreads_books.json.gz - https://drive.google.com/uc?id=1LXpK1... 
 - goodreads_interactions.csv - https://drive.google.com/open?id=1zmy...
 - book_id_map.csv - https://drive.google.com/uc?id=1CHTAa...
 
-
+ Note: You may need to copy and paste these links into your browser to initiate the download process.
 
 
 # How to run  
